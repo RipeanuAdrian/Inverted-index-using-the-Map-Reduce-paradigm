@@ -1,0 +1,1 @@
+# Inverted-index-using-the-Map-Reduce-paradigm
